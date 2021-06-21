@@ -1,0 +1,1 @@
+X=MsgBox("no :)", 0 + 16, "Labyrinth")

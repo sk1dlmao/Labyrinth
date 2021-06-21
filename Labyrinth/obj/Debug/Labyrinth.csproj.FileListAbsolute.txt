@@ -1,0 +1,15 @@
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\bin\Debug\Split.exe
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\bin\Debug\Split.pdb
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Labyrinth.csprojAssemblyReference.cache
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Labyrinth.Cut.resources
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Labyrinth.csproj.GenerateResource.cache
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Split.exe
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Split.pdb
+C:\Users\beary\Desktop\Stuff\Coding\C#\Labyrinth\bin\Debug\Labyrinth.exe
+C:\Users\beary\Desktop\Stuff\Coding\C#\Labyrinth\bin\Debug\Labyrinth.pdb
+C:\Users\beary\Desktop\Stuff\Coding\C#\Labyrinth\obj\Debug\Labyrinth.csprojAssemblyReference.cache
+C:\Users\beary\Desktop\Stuff\Coding\C#\Labyrinth\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\beary\Desktop\Stuff\Coding\C#\Labyrinth\obj\Debug\Labyrinth.exe
+C:\Users\beary\Desktop\Stuff\Coding\C#\Labyrinth\obj\Debug\Labyrinth.pdb
+C:\Users\beary\Desktop\Stuff\Coding\C#\Labyrinth\bin\Debug\Labyrinth.exe.config

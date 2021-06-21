@@ -1,0 +1,6 @@
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\bin\Debug\Split.exe
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\bin\Debug\Split.pdb
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Split.csprojAssemblyReference.cache
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Split.csproj.CoreCompileInputs.cache
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Split.exe
+C:\Users\beary\Desktop\Stuff\Coding\C#\Split\obj\Debug\Split.pdb
